@@ -19,8 +19,8 @@
   <dependencies>
   <!-- Link backend project -->
   	<dependency>
-  		<groupId>net.kzn</groupId>
- 		<artifactId>shoppingbackend</artifactId>
+  		<groupId>net.aam</groupId>
+ 		<artifactId>cellarbackend</artifactId>
   		<version>0.0.1-SNAPSHOT</version>
   	</dependency>
   
